@@ -1,5 +1,5 @@
 # shopping-app
-An simple online shopping app using JSP and Servlets
+An online window shopping app using JSP and Servlets
 
 ## Work in progress!
 
